@@ -7,7 +7,7 @@ A simple OpenGL viewer written for Dartmouth CS77 (Graphics) course with support
 		Cylinder uniform tesselation
 		Quad/Triangle Mesh recursive tesselation
 		Catmull-Clark Subdivision Surfaces recursive tesselation
-		Bezier splines uniform and recursive (de Casteljau EC) tesselation
+		Bezier splines uniform and recursive (de Casteljau) tesselation
 	Transformation
 		Implement simple function transformation
 
