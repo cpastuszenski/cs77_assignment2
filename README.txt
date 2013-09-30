@@ -14,7 +14,7 @@ ABOUT:
 		Cylinder uniform tesselation
 		Quad/Triangle Mesh recursive tesselation
 		Catmull-Clark Subdivision Surfaces recursive tesselation
-		Bezier splines uniform and recursive (de Casteljau EC) tesselation
+		Bezier splines uniform and recursive (de Casteljau) tesselation
 	Transformation
 		Implement simple function transformation
 
